@@ -5,7 +5,7 @@ I love Linux and use Arch and I am Palestinian and I love programming and I am r
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,css,html,js,ts,php,c,cs,cpp,rust,py,go,vscode,visualstudio,neovim,vim,bash,dotnet,github,git,pr,obsidian,godot,discord,rider&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,css,html,js,ts,php,c,cs,cpp,rust,py,go,vscode,visualstudio,neovim,vim,bash,dotnet,github,git,pr,ps,obsidian,godot,discord,rider&theme=dark" />
   </a>
 </p>
 
