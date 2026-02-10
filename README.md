@@ -23,4 +23,4 @@ just_about();
 ```
 
 
-<a href='https://discord.com/users/1328296284456751119' target="_blank"><img alt='discord' src='https://img.shields.io/badge/s4cp-100000?style=for-the-badge&logo=discord&logoColor=4A7DFF&labelColor=black&color=black'/></a>
+<a href='https://discord.com/users/1328296284456751119' target="_blank"><img alt='discord' src='https://img.shields.io/badge/._malek0-100000?style=for-the-badge&logo=discord&logoColor=4A7DFF&labelColor=black&color=black'/></a>
