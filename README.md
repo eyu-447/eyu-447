@@ -1,6 +1,6 @@
 # **Linuxawy**!
 
-I love Linux and use Arch and I am Palestinian and I love programming and I am ready to sacrifice my life to defend my country Palestine.
+Linux Nerd & I use Arch BTW. Software ENG and full stack dev!
 
 
 <p align="center">
