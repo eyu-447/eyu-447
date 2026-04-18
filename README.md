@@ -2,7 +2,10 @@
 
 Linux Nerd & I use Arch BTW. Software ENG and full stack dev!
 
+# My personal website:
+https://eyu-447.github.io/Linuxawy-WebSite/
 
+---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,css,html,js,ts,nodejs,laravel,php,c,cpp,rust,go,neovim,vscodium,bash,github,git,pr,obsidian,discord,instagram&theme=dark" />
